@@ -5,8 +5,11 @@ Lo que se necesita es ejecutar lo diagramado en los ejercicios anteriores, es de
 
 Hecho esto, basándose en el ejemplo de Mi primera clase del aula virtual, simplemente deben crear las clases que diagramaron anteriormente sin crear aún los objetos.
 
+## Alumno
+Carlos Marino CROVARA
+
 ## Materia y profesor
-Desarrollo de Sistemas Orientados a Objetos (DOO) - Prof. Lautaro Gabriel Muñoz   
+Desarrollo de Sistemas Orientados a Objetos (DOO) - Prof. Lautaro Gabriel MUÑOZ   
 
 ## Carrera
 Tecnicatura Superior en Desarrollo de Software 
